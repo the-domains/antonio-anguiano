@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Antonio Anguiano]]></title>
         <description><![CDATA[Antonio Anguiano]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/antonio-anguiano/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 09:35:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 09:37:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/antonio-anguiano/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedd2a394ef-c5f8-4850-a78f-4f63e7814678/index.html</link>
+            <description><![CDATA[<p>A hospitality industry “strategist” with strong results-driven motivation and team leadership. 
+
+Experience covers multiple aspects of hospitality industry as Revenue Management, Market Data Analysis, Supply Chain Management, Online Marketing, Website Improvement, Operations Efficiency, System Architecture and Connectivity.
+
+I specialize in solutions, consulting, business development, project management and team leadership. 
+
+Successfully exceed clients expectations in more than 20 different countries from West/East Europe, Asia Pacific, Caribbean and North Africa.  </p>]]></description>
+            <link>https://thegrid.ai/antonio-anguiano/d2a394ef-c5f8-4850-a78f-4f63e7814678/index.html</link>
             <guid isPermaLink="false">d2a394ef-c5f8-4850-a78f-4f63e7814678</guid>
-            <pubDate>Sat, 26 Mar 2016 09:35:29 GMT</pubDate>
+            <pubDate>Sat, 26 Mar 2016 09:36:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
